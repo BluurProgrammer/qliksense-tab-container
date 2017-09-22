@@ -1,0 +1,7 @@
+{
+	"name": "Tab Container",
+	"description": "A tab strip container that allows designers to take multiple objects and place them in a single area with a small tab strip for navigation between objects. Additionally each object can have an evaluated show/hid condition.",
+	"type": "visualization",
+	"version": 1,
+	"author": "Andrew Pettit/Matheus serrao"
+}
