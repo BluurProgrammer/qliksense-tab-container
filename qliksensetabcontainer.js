@@ -598,11 +598,11 @@ define(["jquery","qlik"], function($, qlik) {
             	+ Number(layout.obj4ShowCond)
             	+ Number(layout.obj5ShowCond);
 
-          	var buttonStyle = "border-width: 0px; padding: 4px 6px 4px 6px; border-color: #28a745; border-radius: 0.2rem; height: 32px;"; //box-shadow: -3px 2px 2px 0px #d3d3d3; border-radius: 15px 50px;
+          	var buttonStyle = "border-width: 0px; padding: 2px 6px 2px 6px; border-color: #28a745; border-radius: 0.2rem; height: 32px;"; //box-shadow: -3px 2px 2px 0px #d3d3d3; border-radius: 15px 50px;
 
 
 				if (layout.btnLoc == "bottom" || layout.btnLoc == "top"){
-					buttonStyle = buttonStyle + " margin: 0px 4px 2px 6px;";
+					buttonStyle = buttonStyle + " margin: 0px 3px 6px 2px;";
 		  	}
 		  	else {
 			  	buttonStyle = buttonStyle + " margin: 2px 10px 2px 6px;";
